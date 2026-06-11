@@ -2,16 +2,25 @@
 
 This repository contains my daily internship tasks and practice programs for learning the MERN Stack.
 
-## Day 1 - Variables and Data Types
+## Technologies Covered
+- JavaScript
+- Node.js
+- Express.js
+- React.js
+- MongoDB
 
-### Topics Covered
+---
+
+# Day 1 - Variables and Data Types
+
+## Topics Covered
 - Variables
 - String
 - Number
 - Boolean
 - Array
 
-### Output
+## Output
 
 Name: Devadharshini
 Age: 19
@@ -21,15 +30,15 @@ Skills: [ 'HTML', 'CSS', 'JavaScript' ]
 
 ---
 
-## Day 2 - Operators and Conditions
+# Day 2 - Operators and Conditions
 
-### Topics Covered
+## Topics Covered
 - Arithmetic Operators
 - Comparison Operators
 - If-Else Conditions
 - Simple Calculator
 
-### Output
+## Output
 
 Number 1: 10
 Number 2: 5
@@ -39,27 +48,57 @@ Multiplication: 50
 Division: 2
 Number 1 is greater than Number 2
 
-### Calculator Output
-
+Calculator Output:
 Result: 30
 
 ---
 
-## Folder Structure
+# Day 3 - Loops
 
-mern-stack-internship/
-│
-├── Day-1/
-│   └── day1.js
-│
-├── Day-2/
-│   └── day2.js
-│
-└── README.md
+## Topics Covered
+- For Loop
+- Nested Loop
+- Number Series
+- Pattern Printing
+
+## Output
+
+Number Series from 1 to 10
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+Star Pattern
+
+*
+* *
+* * *
+* * * *
+* * * * *
 
 ---
 
-Created By:
-Devadharshini
+# Day 4 - Functions
 
-M. Kumarasamy College of Engineering
+## Topics Covered
+- Functions
+- Parameters
+- Return Statement
+- Factorial Program
+
+## Output
+
+Sum = 30
+
+Factorial = 120
+
+---
+
