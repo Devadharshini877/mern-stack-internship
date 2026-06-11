@@ -1,21 +1,12 @@
 # MERN Stack Internship
 
-## Day 1 - Variables and Data Types
+## Day 2 - Operators and Conditions
 
 Topics Covered:
-- Variables
-- String
-- Number
-- Boolean
-- Array
-
-Output:
-
-Name: Devadharshini
-Age: 19
-Student: true
-City: Namakkal
-Skills: [ 'HTML', 'CSS', 'JavaScript' ]
+- Arithmetic Operators
+- Comparison Operators
+- If-Else Conditions
+- Simple Calculator
 
 Created by:
 Devadharshini
